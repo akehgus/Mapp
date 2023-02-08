@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db2493f8-019c-4df0-a996-bb5319ed2876" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Inventory.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Inventory.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/New Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/New Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SlotPos.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SlotPos.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Inventory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Inventory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Inventory.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Inventory.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ItemPrefeb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ItemPrefeb.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ItemPrefeb.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ItemPrefeb.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ItemSensor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ItemSensor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ItemSensor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ItemSensor.cs.meta" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2J1claqryHvDakyasAc8GRyjz5g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db2493f8-019c-4df0-a996-bb5319ed2876" name="Default Changelist" comment="" />
+      <created>1671249185001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671249185001</updated>
+    </task>
+    <servers />
+  </component>
+</project>
